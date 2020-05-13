@@ -1,0 +1,4 @@
+h5py==2.10.0
+numpy==1.16.4
+tensorboard==1.14.0
+tensorflow-gpu==1.14.0
