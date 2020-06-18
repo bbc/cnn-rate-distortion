@@ -119,11 +119,8 @@ python3 cnn-rate-distortion --task test --model_name [model name] --data_name [d
 ```
 
 ## Acknowledgements
-The work leading to this paper was co-supported by the [Engineering and 
-Physical Sciences Research Council](https://epsrc.ukri.org/) of the UK 
-through an [iCASE](https://epsrc.ukri.org/skills/students/industrial-case/intro/) 
-grant in cooperation with the [British Broadcasting Corporation](https://www.bbc.co.uk/rd).
-
+This work was co-supported by the  [Engineering and 
+Physical Sciences Research Council](https://epsrc.ukri.org/) of the UK, through an [iCASE](https://epsrc.ukri.org/skills/students/industrial-case/intro/) studentship in collaboration with the [School of Electronic Engineering and Computer Science](http://eecs.qmul.ac.uk/), [Queen Mary University of London]([qmul.ac.uk/](https://www.qmul.ac.uk/)).
 
 ## Contact
 If you have any general doubt about our work or code which may be of 
